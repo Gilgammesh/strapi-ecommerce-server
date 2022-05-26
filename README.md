@@ -1,3 +1,8 @@
-# Strapi application
+# Ecommerce de Juegos
 
-A quick description of your strapi application
+Tienda en linea de juegos - Servidor
+
+## Tecnologías
+
+Strapi
+Stripe
